@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PartStepView</string>
+    <string-array name="steps">
+        <item>步骤1</item>
+        <item>步骤2</item>
+        <item>步骤3</item>
+        <item>步骤4</item>
+        <item>步骤5</item>
+        <item>步骤6</item>
+        <item>步骤7</item>
+        <item>步骤8</item>
+        <item>步骤9</item>
+        <item>步骤10</item>
+        <item>步骤11</item>
+        <item>步骤12</item>
+        <item>步骤13</item>
+    </string-array>
+</resources>
